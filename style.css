@@ -66,6 +66,10 @@ body {
     text-align: center;
   }
 
+  .card-white p{
+    line-height: 0;
+  }
+
   .img-circle {
     border-radius: 50%;
   }
